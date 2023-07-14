@@ -13,4 +13,6 @@ my skills in HTML & CSS and JavaScript.
 <li> Random Color Picker </li>
 <li> Random Joke Generator (API) </li>
 <li> 10 Minutes Timer </li>
+<li> Graphical Clock </li>
+<li> Random Emoji Switcher </li>
 
