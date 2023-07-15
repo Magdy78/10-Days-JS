@@ -1,5 +1,5 @@
-# 30-Days-JS
-This is a 30 Days Challenge where I challenged myself to create 30 JS Projects from scratch to improve
+# 10-Days-JS
+This is a 10 Days Challenge where I challenged myself to create 30 JS Projects from scratch to improve
 my skills in HTML & CSS and JavaScript.
 #
 <div align="center">
@@ -8,11 +8,12 @@ my skills in HTML & CSS and JavaScript.
 
 # Projects in This Challenge : 
 <li> Weather App </li>
-<li>To-Do List</li>
+<li> To-Do List</li>
 <li> Generate Random Password </li>
 <li> Random Color Picker </li>
 <li> Random Joke Generator (API) </li>
 <li> 10 Minutes Timer </li>
 <li> Graphical Clock </li>
 <li> Random Emoji Switcher </li>
+<li> Traffic Light Project </li>
 
