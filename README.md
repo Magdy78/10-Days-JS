@@ -1,5 +1,5 @@
 # 10-Days-JS
-This is a 10 Days Challenge where I challenged myself to create 30 JS Projects from scratch to improve
+This is a 10 Days Challenge where I challenged myself to create 10 JS Projects from scratch to improve
 my skills in HTML & CSS and JavaScript.
 #
 <div align="center">
